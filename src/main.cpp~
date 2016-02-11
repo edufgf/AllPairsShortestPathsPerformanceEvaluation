@@ -1,0 +1,6 @@
+#include "Matrix.h"
+
+int main(){	
+	int a;
+	Matrix<int> M;
+}
